@@ -1,0 +1,48 @@
+﻿@model Company.DomainModels.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayoutPage1.cshtml";
+}
+
+<h2>Product Details</h2>
+<table class="table">
+    <tr>
+        <th>Product Id</th>
+        <td>@Model.ProductID</td>
+    </tr>
+    <tr>
+        <th>Product Name</th>
+        <td>@Model.ProductName</td>
+    </tr>
+    <tr>
+        <th>Price</th>
+        <td>@Model.Price.Value.ToString("C")</td>
+    </tr>
+    <tr>
+        <th>Date of Purchase</th>
+        <td>@Model.DOP.Value.ToString("dd/MM/yyyy")</td>
+    </tr>
+    <tr>
+        <th>Availability status</th>
+        <td>@Model.AvailabilityStatus</td>
+    </tr>
+    <tr>
+        <th>Category Id</th>
+        <td>@Model.CategoryID</td>
+    </tr>
+    <tr>
+        <th>Brand Id</th>
+        <td>@Model.BrandID</td>
+    </tr>
+    <tr>
+        <th>Active</th>
+        <td>@Model.Active</td>
+    </tr>
+    <tr>
+        <th>Image</th>
+        <td><img src="data:img;base64,@Model.Photo" width="100px" /></td>
+    </tr>
+</table>
+
+<a href="/admin\products\Index">Back To Products</a>

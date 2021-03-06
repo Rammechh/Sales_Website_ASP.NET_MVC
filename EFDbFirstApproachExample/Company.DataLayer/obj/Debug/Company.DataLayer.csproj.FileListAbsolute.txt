@@ -1,0 +1,15 @@
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DataLayer.dll.config
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DataLayer.dll
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DataLayer.pdb
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DomainModels.dll
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DomainModels.pdb
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\Company.DomainModels.dll.config
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\obj\Debug\Company.DataLayer.csprojAssemblyReference.cache
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\obj\Debug\Company.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\obj\Debug\Company.DataLayer.csproj.CopyComplete
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\obj\Debug\Company.DataLayer.dll
+C:\Users\ram75\source\repos\EFDbFirstApproachExample\Company.DataLayer\obj\Debug\Company.DataLayer.pdb

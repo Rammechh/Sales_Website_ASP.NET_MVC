@@ -1,0 +1,4 @@
+Message:The underlying provider failed on Open.,Type:System.Data.Entity.Core.EntityException,Source:EntityFramework
+Message:No parameterless constructor defined for this object. Object type 'EFDbFirstApproachExample.Identity.ApplicationUserManager'.,Type:System.MissingMethodException,Source:System.Web.Mvc
+Message:The controller for path '/api/brands' was not found or does not implement IController.,Type:System.Web.HttpException,Source:System.Web.Mvc
+Message:The controller for path '/=2' was not found or does not implement IController.,Type:System.Web.HttpException,Source:System.Web.Mvc

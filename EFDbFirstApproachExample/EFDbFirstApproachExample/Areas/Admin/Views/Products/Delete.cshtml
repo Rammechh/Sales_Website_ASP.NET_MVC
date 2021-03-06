@@ -1,0 +1,24 @@
+﻿@model Company.DomainModels.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayoutPage1.cshtml";
+}
+
+<h2>Delete</h2>
+<form action="/admin\products\delete\@Model.ProductID" method="post">
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label for="ProductName">Product Name</label>
+            <input type="hidden" name="ProductID" value=@Model.ProductID><br />
+            @Model.ProductName
+        </div>
+        <div class="form-group col-md-6">
+            <label for="Price">Price</label><br />
+            @Model.Price
+        </div>
+        <p>Are you sure want to delete the Product?</p>
+    </div>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="/admin/products/index/" class="btn btn-danger">Cancel</a>
+</form>
